@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Mob
+  - PowerUp
   layers:
   - Default
   - TransparentFX
@@ -40,4 +42,22 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 106554207
+    locked: 0
+  - name: Player
+    uniqueID: 1050572829
+    locked: 0
+  - name: Player2
+    uniqueID: 4180692665
+    locked: 0
+  - name: Grass
+    uniqueID: 2180561171
+    locked: 0
+  - name: PowerUp
+    uniqueID: 1804558511
+    locked: 0
+  - name: Mobs
+    uniqueID: 1573992791
     locked: 0
